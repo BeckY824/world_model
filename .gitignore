@@ -1,0 +1,5 @@
+#不上传模型和数据
+*.pth
+*.ckpt
+*.pt
+VAE/data/

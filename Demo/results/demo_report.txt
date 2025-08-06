@@ -1,0 +1,19 @@
+
+VMC 演示结果报告
+===============
+
+V组件 (变分编码器) 性能:
+- 平均KL散度: 3.4268
+- 潜在维度: 64
+- 维度利用率: 1.000
+
+M组件 (记忆模块) 性能:
+- 主导分量: Component 0 (概率: 0.502)
+- 平均注意力熵: 2.759
+- 记忆槽数量: 16
+
+生成的可视化文件:
+- results/demo_v_component_analysis.png
+- results/demo_m_component_analysis.png
+
+总体评估: 优秀
