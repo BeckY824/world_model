@@ -2,4 +2,5 @@
 *.pth
 *.ckpt
 *.pt
-VAE/data/
+Projects/VAE/data/
+Projects/Demo/data/
