@@ -42,6 +42,7 @@
 | David Ha & Jürgen Schmidhuber（World Models, 2018） | all          | 2025.8.3~8.4 | ✅    |
 | Danijar Hafner DreamerV3                            | algorithms   | 2025.8.2     | ✅    |
 | The Nature of Explanation                           | Introduction | 2025.8.15    | ✅    |
+|                                                     | Chapter1     | 2025.8.16    | ✅    |
 
 ## 🪡 数据集准备
 
