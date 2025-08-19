@@ -36,14 +36,15 @@
 
 ## **📖 论文阅读进程**
 
-| 论文                                                | 内容          | 日期         | 状态 |
-| --------------------------------------------------- | ------------- | ------------ | ---- |
-| Yann LeCun JEPA                                     | chapter1-4    | 2025.8.1~8.6 | ✅    |
-| David Ha & Jürgen Schmidhuber（World Models, 2018） | all           | 2025.8.3~8.4 | ✅    |
-| Danijar Hafner DreamerV3                            | algorithms    | 2025.8.2     | ✅    |
-| The Nature of Explanation                           | Introduction  | 2025.8.15    | ✅    |
-|                                                     | Chapter1      | 2025.8.16    | ✅    |
-|                                                     | Chapter2-half | 2025.8.18    | ✅    |
+| 论文                                                | 内容              | 日期         | 状态 |
+| --------------------------------------------------- | ----------------- | ------------ | ---- |
+| Yann LeCun JEPA                                     | chapter1-4        | 2025.8.1~8.6 | ✅    |
+| David Ha & Jürgen Schmidhuber（World Models, 2018） | all               | 2025.8.3~8.4 | ✅    |
+| Danijar Hafner DreamerV3                            | algorithms        | 2025.8.2     | ✅    |
+| The Nature of Explanation                           | Introduction      | 2025.8.15    | ✅    |
+|                                                     | Chapter1          | 2025.8.16    | ✅    |
+|                                                     | Chapter2-half     | 2025.8.18    | ✅    |
+|                                                     | Chapter2-finished | 2025.8.19    | ✅    |
 
 ## 🪡 数据集准备
 
