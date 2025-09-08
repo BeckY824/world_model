@@ -44,6 +44,7 @@
 | The Nature of Explanation                           | Introduction | 2025.8.15    | ✅    |
 |                                                     | Chapter1-4   | 2025.8.16-20 | ✅    |
 |                                                     | Chapter5     | 2025.8.26    | ✅    |
+|                                                     | Chapter6     | 2025.9.3-9.9 | ✅    |
 
 ## 🪡 数据集准备
 
