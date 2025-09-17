@@ -36,15 +36,13 @@
 
 ## **📖 论文阅读进程**
 
-| 论文                                                | 内容         | 日期         | 状态 |
-| --------------------------------------------------- | ------------ | ------------ | ---- |
-| Yann LeCun JEPA                                     | chapter1-4   | 2025.8.1~8.6 | ✅    |
-| David Ha & Jürgen Schmidhuber（World Models, 2018） | all          | 2025.8.3~8.4 | ✅    |
-| Danijar Hafner DreamerV3                            | algorithms   | 2025.8.2     | ✅    |
-| The Nature of Explanation                           | Introduction | 2025.8.15    | ✅    |
-|                                                     | Chapter1-4   | 2025.8.16-20 | ✅    |
-|                                                     | Chapter5     | 2025.8.26    | ✅    |
-|                                                     | Chapter6     | 2025.9.3-9.9 | ✅    |
+| 论文                                                 | 内容       | 日期           | 状态 |
+| ---------------------------------------------------- | ---------- | -------------- | ---- |
+| Yann LeCun JEPA                                      | chapter1-4 | 2025.8.1~8.6   | ✅    |
+| David Ha & Jürgen Schmidhuber（World Models, 2018）  | all        | 2025.8.3~8.4   | ✅    |
+| Danijar Hafner DreamerV3                             | algorithms | 2025.8.2       | ✅    |
+| The Nature of Explanation(Finished)                  | all        | 2025.8.15-9.12 | ✅    |
+| Tolman, E. C. *Cognitive maps in rats and men*. 1948 | all        | 2025.9.16      |      |
 
 ## 🪡 数据集准备
 
