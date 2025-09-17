@@ -42,7 +42,7 @@
 | David Ha & Jürgen Schmidhuber（World Models, 2018）  | all        | 2025.8.3~8.4   | ✅    |
 | Danijar Hafner DreamerV3                             | algorithms | 2025.8.2       | ✅    |
 | The Nature of Explanation(Finished)                  | all        | 2025.8.15-9.12 | ✅    |
-| Tolman, E. C. *Cognitive maps in rats and men*. 1948 | all        | 2025.9.16      |      |
+| Tolman, E. C. *Cognitive maps in rats and men*. 1948 | all        | 2025.9.16      |  ✅    |
 
 ## 🪡 数据集准备
 
