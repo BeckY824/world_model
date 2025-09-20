@@ -43,6 +43,7 @@
 | Danijar Hafner DreamerV3                             | algorithms | 2025.8.2       | ✅    |
 | The Nature of Explanation(Finished)                  | all        | 2025.8.15-9.12 | ✅    |
 | Tolman, E. C. *Cognitive maps in rats and men*. 1948 | all        | 2025.9.16      |  ✅    |
+| Minsky, M. *A Framework for Representing Knowledge*. 1974 | all | 2025.9.17- |  |
 
 ## 🪡 数据集准备
 
