@@ -23,6 +23,9 @@ The review poster is on [Overview Poster](https://github.com/BeckY824/World-Mode
 ### 🔬 Individual Research Project - Supervised by Professor [Enrico Marchioni](https://scholar.google.com/citations?user=6cPUHikAAAAJ&hl=en)
 > **Status:** ✅ Completed  |  **Duration:** Jan 2026 — May 2026
 
+### 🔬 Prepare for publication - Supervised by Professor [Enrico Marchioni](https://scholar.google.com/citations?user=6cPUHikAAAAJ&hl=en)
+> **Status:** Working on | **Duration:** July 15th - Unknown
+
 ---
 ## 🚀 <b>Further Directions & Plan</b><br>
 Exploring the fundamental mechanisms of how the brain works through interdisciplinary research combining Machine Learning, Neuroscience, and Cognitive Science. Key focus areas include:<br>
